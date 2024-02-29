@@ -29,6 +29,8 @@ npm install
 
 ## Deployed App
 
+https://dpka-redux-store.onrender.com/
+
 ## License
 
 <a href=https://opensource.org/licenses/MIT>MIT</a>
