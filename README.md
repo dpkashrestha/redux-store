@@ -25,6 +25,7 @@ npm install
 2. cmd> npm run develop
 
 ## Screenshot
+<img width="1725" alt="shop-shop" src="https://github.com/dpkashrestha/redux-store/assets/142865374/a8500a18-e80c-4eff-a8bb-bcc6c5d9d927">
 
 ## Deployed App
 
