@@ -9,7 +9,7 @@ const initialState = {
 };
 
 export const shopSlice = createSlice({
-  name: "shop-shop",
+  name: "shop",
   initialState,
   reducers: {
     updateProducts: (state, action) => {
